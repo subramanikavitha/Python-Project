@@ -1,6 +1,6 @@
 # Python-Project
-Computer science QUIZ game project
-This is a Python-based computer science-based quiz game that uses the Open Trivia API to generate questions, an options for the player to answer. The game uses a simple graphical user interface (GUI) created with the Tkinter library.
+Computer knowledge QUIZ game project
+This is a Python-based computer knowledge-based quiz game that uses the Open Trivia API to generate questions, and options for the player to answer. The game uses a simple graphical user interface (GUI) created with the Tkinter library.
 
 Installation To run the game, you will need to have Python 3 installed on your computer. You can download Python 3 from the official website at https://www.python.org/downloads/.
 
